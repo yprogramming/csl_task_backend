@@ -12,7 +12,7 @@ npm install
 npm start
 ```
 
-### import database file to database
+### import database file to mysql database
 ```
 file name: mysql_csl_task_db.sql
 ```
